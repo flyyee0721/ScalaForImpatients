@@ -1,1 +1,1 @@
-# ScalaForImpatients
+# Scala For Impatients Exercise Solutions
