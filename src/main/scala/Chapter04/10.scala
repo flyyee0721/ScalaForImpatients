@@ -12,4 +12,4 @@
 
 //case converter
 val m = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".zip("abcdefghijklmnopqrstuvwxyz").toMap
-m("B") = ob
+m('B') = b
