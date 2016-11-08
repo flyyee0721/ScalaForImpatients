@@ -1,4 +1,4 @@
-#Chapter 5 Summary
+#Chapter 5 Classes Summary
 
 ###5.0 Key points
 * Fields in scala classes automatically come with getters and setters.
